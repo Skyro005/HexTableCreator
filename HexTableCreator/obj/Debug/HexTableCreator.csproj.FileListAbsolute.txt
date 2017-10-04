@@ -1,0 +1,7 @@
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\obj\Debug\HexTableCreator.csprojResolveAssemblyReference.cache
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\obj\Debug\HexTableCreator.csproj.CoreCompileInputs.cache
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\bin\Debug\HexTableCreator.exe.config
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\bin\Debug\HexTableCreator.exe
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\bin\Debug\HexTableCreator.pdb
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\obj\Debug\HexTableCreator.exe
+S:\Documents\RomHacking\ToolProjects\HexTableCreator\HexTableCreator\obj\Debug\HexTableCreator.pdb
